@@ -9,4 +9,6 @@ pip install -r requirements.txt (установка зависимостей п�
 
 python manage.py migrate (миграции)
 
+python manage.py createsuperuser (создание суперпользователя)
+
 python manage.py runserver (запуск сервера)

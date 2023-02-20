@@ -4,5 +4,9 @@
 STRIPE_SECRET_KEY, а также выполнить следующий набор команд.
 
 python venv <virtual_environment_name> (создание виртуальной среды)
+
+pip install -r requirements.txt (установка зависимостей проекта)
+
 python manage.py migrate (миграции)
+
 python manage.py runserver (запуск сервера)
